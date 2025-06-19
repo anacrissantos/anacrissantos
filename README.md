@@ -15,7 +15,7 @@ Professora e pesquisadora com atuação nas áreas de **Liderança**, **Desenvol
 
 📫 Como me encontrar:
 [![GitHub](https://img.shields.io/badge/GitHub-anacrissantos-informational?style=flat-square&logo=github)](https://github.com/anacrissantos)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnaCristinaSantos-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anacrissantos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnaCristinaSantos-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anacristinadossantos/)
 
 ---
 
