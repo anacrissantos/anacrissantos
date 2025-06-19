@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👩🏽‍🏫 Ana Cristina dos Santos
 
-<!--
-**anacrissantos/anacrissantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professora e pesquisadora com atuação nas áreas de **Liderança**, **Desenvolvimento de Habilidades Socioemocionais**, **Gestão Acadêmica** e **Excelência e Inovação** em projetos educacionais com base em tecnologia.
 
-Here are some ideas to get you started:
+🔭 Atualmente trabalhando em projetos com:
+- Metodologias ativas no ensino de Computação
+- Integração de IA em projetos educacionais
+- Educação em Finanças com apoio de tecnologia
+- Práticas de liderança para desenvolvimento de habilidades socioemocionais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Explorando mais sobre:
+- Engenharia Pedagógica e Design Instrucional
+- Inteligência Artificial aplicada à Educação
+- Projetos com impacto social e inclusão
+
+📫 Como me encontrar:
+[![GitHub](https://img.shields.io/badge/GitHub-anacrissantos-informational?style=flat-square&logo=github)](https://github.com/anacrissantos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnaCristinaSantos-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anacrissantos/)
+
+---
+
